@@ -1,0 +1,12 @@
+{
+  "source": "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,30 @@
+{
+  "" : {
+    "dependencies" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphoneos/AppDeliveryDemo.build/Objects-normal/arm64/AppDeliveryDemo-master.d",
+    "diagnostics" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphoneos/AppDeliveryDemo.build/Objects-normal/arm64/AppDeliveryDemo-master.dia",
+    "emit-module-dependencies" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphoneos/AppDeliveryDemo.build/Objects-normal/arm64/AppDeliveryDemo-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphoneos/AppDeliveryDemo.build/Objects-normal/arm64/AppDeliveryDemo-master-emit-module.dia",
+    "swift-dependencies" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphoneos/AppDeliveryDemo.build/Objects-normal/arm64/AppDeliveryDemo-master.swiftdeps"
+  },
+  "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/AppDeliveryDemoApp.swift" : {
+
+  },
+  "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/ContentView.swift" : {
+
+  },
+  "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/Models/HomePage/homePageBannerModel.swift" : {
+
+  },
+  "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/Models/HomePage/marketOrYemekCard.swift" : {
+
+  },
+  "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/Models/HomePage/mutfaklarButtonModel.swift" : {
+
+  },
+  "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/Views/Home Page/homePageView.swift" : {
+
+  },
+  "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphoneos/AppDeliveryDemo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "source": "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphonesimulator/AppDeliveryDemo.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

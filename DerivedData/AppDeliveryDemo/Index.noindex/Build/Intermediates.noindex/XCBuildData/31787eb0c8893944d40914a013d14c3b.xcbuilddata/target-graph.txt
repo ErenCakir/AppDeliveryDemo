@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'AppDeliveryDemo' in project 'AppDeliveryDemo' (no dependencies)
+Target 'AppDeliveryDemo' in project 'AppDeliveryDemo' (no dependencies)

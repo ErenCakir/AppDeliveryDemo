@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphonesimulator/AppDeliveryDemoTests.build/Objects-normal/arm64/AppDeliveryDemoTests-master.d",
+    "diagnostics" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphonesimulator/AppDeliveryDemoTests.build/Objects-normal/arm64/AppDeliveryDemoTests-master.dia",
+    "emit-module-dependencies" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphonesimulator/AppDeliveryDemoTests.build/Objects-normal/arm64/AppDeliveryDemoTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphonesimulator/AppDeliveryDemoTests.build/Objects-normal/arm64/AppDeliveryDemoTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/Build/Intermediates.noindex/AppDeliveryDemo.build/Debug-iphonesimulator/AppDeliveryDemoTests.build/Objects-normal/arm64/AppDeliveryDemoTests-master.swiftdeps"
+  },
+  "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemoTests/AppDeliveryDemoTests.swift" : {
+
+  }
+}

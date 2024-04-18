@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'AppDeliveryDemoUITests' in project 'AppDeliveryDemo' (no dependencies)
+Target 'AppDeliveryDemoUITests' in project 'AppDeliveryDemo'
+➜ Explicit dependency on target 'AppDeliveryDemo' in project 'AppDeliveryDemo'
+Target 'AppDeliveryDemoUITests' in project 'AppDeliveryDemo'
+➜ Explicit dependency on target 'AppDeliveryDemo' in project 'AppDeliveryDemo'
+Target 'AppDeliveryDemoTests' in project 'AppDeliveryDemo' (no dependencies)
+Target 'AppDeliveryDemoTests' in project 'AppDeliveryDemo'
+➜ Explicit dependency on target 'AppDeliveryDemo' in project 'AppDeliveryDemo'
+Target 'AppDeliveryDemoTests' in project 'AppDeliveryDemo'
+➜ Explicit dependency on target 'AppDeliveryDemo' in project 'AppDeliveryDemo'
+Target 'AppDeliveryDemo' in project 'AppDeliveryDemo' (no dependencies)
+Target 'AppDeliveryDemo' in project 'AppDeliveryDemo' (no dependencies)

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/Views/Home Page/homePageView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Ara..."
+      },
+      {
+        "comment": "",
+        "key": "Teslimat Aderesi"
+      },
+      {
+        "comment": "",
+        "key": "Eren Ev(Kocasinan Merkez Mahell)"
+      }
+    ]
+  },
+  "version": 1
+}

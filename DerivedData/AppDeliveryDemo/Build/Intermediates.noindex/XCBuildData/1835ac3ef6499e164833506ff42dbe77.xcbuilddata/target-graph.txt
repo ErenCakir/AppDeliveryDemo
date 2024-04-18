@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'AppDeliveryDemoUITests' in project 'AppDeliveryDemo'
+➜ Explicit dependency on target 'AppDeliveryDemo' in project 'AppDeliveryDemo'
+Target 'AppDeliveryDemoTests' in project 'AppDeliveryDemo'
+➜ Explicit dependency on target 'AppDeliveryDemo' in project 'AppDeliveryDemo'
+Target 'AppDeliveryDemo' in project 'AppDeliveryDemo' (no dependencies)

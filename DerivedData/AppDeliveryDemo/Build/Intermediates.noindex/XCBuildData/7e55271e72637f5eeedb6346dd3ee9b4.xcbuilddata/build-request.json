@@ -1,0 +1,209 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7d93f9c39eb6c939de7f4c1c81e47365772bcbf2daa190c6990f262b62c918f1",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Products",
+          "derivedDataPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/ProfileData",
+              "DSTROOT" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/Intermediates.noindex",
+              "SYMROOT" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "FD631085-D80D-4419-AE92-4A1BE7E63041",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "7d93f9c39eb6c939de7f4c1c81e47365abfbb85544425415a96b2ed7324843f3",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Products",
+          "derivedDataPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/ProfileData",
+              "DSTROOT" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/Intermediates.noindex",
+              "SYMROOT" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "FD631085-D80D-4419-AE92-4A1BE7E63041",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "7d93f9c39eb6c939de7f4c1c81e47365871660865b44271c4fc33eefc10ada87",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Products",
+          "derivedDataPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/ProfileData",
+              "DSTROOT" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/Intermediates.noindex",
+              "SYMROOT" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/Previews/iphonesimulator/AppDeliveryDemo/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "FD631085-D80D-4419-AE92-4A1BE7E63041",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Products",
+      "derivedDataPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/erencakir/AppDeliveryDemo/DerivedData/AppDeliveryDemo/Build/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "FD631085-D80D-4419-AE92-4A1BE7E63041",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

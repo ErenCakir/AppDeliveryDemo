@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameColor1</string>
+			<key>relativePath</key>
+			<string>./color1.colorset</string>
+			<key>swiftSymbol</key>
+			<string>color1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameColor2</string>
+			<key>relativePath</key>
+			<string>./color2.colorset</string>
+			<key>swiftSymbol</key>
+			<string>color2</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameMarketLogo</string>
+			<key>relativePath</key>
+			<string>./marketLogo.imageset</string>
+			<key>swiftSymbol</key>
+			<string>marketLogo</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/erencakir/AppDeliveryDemo/AppDeliveryDemo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameYemekLogo</string>
+			<key>relativePath</key>
+			<string>./yemekLogo.imageset</string>
+			<key>swiftSymbol</key>
+			<string>yemekLogo</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
