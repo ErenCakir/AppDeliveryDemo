@@ -4,15 +4,15 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Ara..."
-      },
-      {
-        "comment": "",
         "key": "Teslimat Aderesi"
       },
       {
         "comment": "",
         "key": "Eren Ev(Kocasinan Merkez Mahell)"
+      },
+      {
+        "comment": "",
+        "key": "Ara..."
       }
     ]
   },

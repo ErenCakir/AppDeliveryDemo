@@ -75,7 +75,7 @@ extension appbar {
                     .padding(.vertical,__designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[0].arg[0].value.[0].arg[0].value.[2].modifier[1].arg[1].value", fallback: 2))
                     .frame(width: __designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[0].arg[0].value.[0].arg[0].value.[2].modifier[2].arg[0].value", fallback: 270))
                     .background(.white)
-                    .cornerRadius(__designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[0].arg[0].value.[0].arg[0].value.[2].modifier[4].arg[0].value", fallback: 10))
+                    .cornerRadius(__designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[0].arg[0].value.[0].arg[0].value.[2].modifier[4].arg[0].value", fallback: 20))
                    Spacer()
                     Image(systemName: __designTimeString("#116419.[2].[1].property.[0].[0].arg[0].value.[0].arg[0].value.[0].arg[0].value.[4].arg[0].value", fallback: "bell.fill"))
                         .font(.system(size: __designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[0].arg[0].value.[0].arg[0].value.[4].modifier[0].arg[0].value.arg[0].value", fallback: 40)))
@@ -94,9 +94,9 @@ extension appbar {
                 Spacer()
             }
             .background(.white)
-            .frame(width: __designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[1].modifier[1].arg[0].value", fallback: 370),height: __designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[1].modifier[1].arg[1].value", fallback: 40))
+            .frame(width: __designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[1].modifier[1].arg[0].value", fallback: 370),height: __designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[1].modifier[1].arg[1].value", fallback: 50))
             .clipShape(RoundedRectangle(cornerRadius: __designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[1].modifier[2].arg[0].value.arg[0].value", fallback: 340), style: .continuous))
-            .padding(.top,__designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[1].modifier[3].arg[1].value", fallback: 15))
+            .padding(.top,__designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[1].modifier[3].arg[1].value", fallback: 5))
             .padding(.bottom, __designTimeInteger("#116419.[2].[1].property.[0].[0].arg[0].value.[1].modifier[4].arg[1].value", fallback: 15))
         }
         .frame(width: .infinity)
